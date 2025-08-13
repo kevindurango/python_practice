@@ -33,5 +33,7 @@ import numpy as np
 w_np = np.array([65.4, 75.3, np.nan, 57.8])
 weight = pd.Series(w_np)
 weight
+
+
                     
                       
